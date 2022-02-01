@@ -3,11 +3,18 @@
 .. toctree::
    :maxdepth: 2
    :caption: Day 1
-   :name: _l1
+   :name: _day1
    :hidden:
 
    day1/day1
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Day 2
+   :name: _day2
+   :hidden:
+
+   day2/day2
 
 
 .. _getting_started:
