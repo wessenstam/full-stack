@@ -1,4 +1,4 @@
-.. title:: ThycoticCentrify - Full Stack Handson Training
+.. title:: Delinea - Full Stack Handson Training
 
 .. toctree::
    :maxdepth: 2
@@ -87,9 +87,9 @@ Using the figure they have set the following steps to get to their end goal.
 5. Zero Standing privileges
 
 As the first priority from Bill was the Data centers, Mary will lead this as she is responsible for the data center infrastructure. John, responsible for databases and the users infrastructure will join, but will not have a priority on this priority one.
-Looking again at the figure, they decided to talk eo Bill as there might also be a possibility to ask Joan to join their team. Joan is responsible for the DevOps environment for ACME and as the graph is also talking about CI/CD, she might be off importance to be added to the project as well. 
+Looking again at the figure, they decided to talk to Bill as there might also be a possibility to ask Lucy Andrews to join their team. Lucy is responsible for the DevOps environment for ACME and as the graph is also talking about CI/CD, she might be off importance to be added to the project as well. 
 
-| After their talks, Bill thought that bringing Joan into the project is a good idea, but later, after they have solved the first three priorities (data center, user machines, third party access). They added a sixth step to their plan, the total list has become:
+| After their talks, Bill thought that bringing Lucy into the project is a good idea, but later, after they have solved the first three priorities (data center, user machines, third party access). They added a sixth step to their plan, the total list has become:
 
 1. Account vaulting and discover
 2. Command elevation/least privilege
@@ -99,14 +99,14 @@ Looking again at the figure, they decided to talk eo Bill as there might also be
 6. Bring DevOps in the mix
 
 
-During the discussion Mary and John had with Bill, he mentioned that ThycoticCentrify has been mentioned by the board due to their amount of `Gartner's Peer Reviews <https://www.gartner.com/reviews/market/privileged-access-management>`_. The amount of reviews and the number of stars they received, has been the major factor for them to propose the name as their first vendor off choice.
+During the discussion Mary and John had with Bill, he mentioned that Delinea (formerly known as ThycoticCentrify) has been mentioned by the board due to their amount of `Gartner's Peer Reviews <https://www.gartner.com/reviews/market/privileged-access-management>`_. The amount of reviews and the number of stars they received, has been the major factor for them to propose the name as their first vendor off choice.
 
-Looking at the website of ThycotiCentrify, she has done some research on the six topics and assigns the solutions to the six topics.
+Looking at the website of Delinea, she has done some research on the six topics and assigns the solutions to the six topics.
 
 1. Account vaulting and discover - Secret Server
-2. Command elevation/least privilege - Servers: Cloud Suite, for user machines: Privilege Manager
-3. Just in Time Privilege - Servers: Cloud Suite, for user machines: Privilege Manager
-4. Privileged Session auditing - Servers: Cloud/Server Suite, for user machines: Secret Server
+2. Command elevation/least privilege - Servers: Server/Cloud Suite, for user machines: Privilege Manager
+3. Just in Time Privilege - Servers: Server/Cloud Suite, for user machines: Privilege Manager
+4. Privileged Session auditing - Servers: Server/Cloud Suite, for user machines: Secret Server
 5. Zero Standing privileges - MFA via Cloud Suite
 6. Bring DevOps in the mix - Secret Server and DevOps Secret Vault
 
@@ -114,8 +114,8 @@ Looking at the website of ThycotiCentrify, she has done some research on the six
    for now: 
 
    - Secret Server (vaulting and discovery)
-   - Cloud Suite
+   - Server/Cloud Suite
    - Privilege Manager
-   - Account Lifecycle Manager
+   - Account Lifecycle Manager(?)
    
    Add DSV to the mix, but need to have an environment to build it.. Maybe further on as separate/extra days to the lab.
