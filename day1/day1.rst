@@ -592,7 +592,7 @@ After 5 minutes she returns and clicks **Discovery Network View**. Here she sees
 
 .. figure:: images/079.png
 
-
+On the right hand side she sees the accounts that have been discovered. And as expected the centosuser has already the *managed* status. This is correct as Mary has defined already the secret.
 
 
 
